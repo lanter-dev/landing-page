@@ -1,21 +1,8 @@
-# Lanter
+# lanter.dev
 
-**Transform your applications across languages**
+Landing page for [lanter](https://github.com/lanter-dev/lanter) — a CLI tool that uses agentic AI to convert codebases between programming languages.
 
-An open-source development tool for converting applications from one programming language to another.
-
-🌐 **[lanter.dev](https://lanter.dev)**
-
-## About
-
-Lanter is a developer tool designed to seamlessly convert applications between programming languages. From Node.js to native C/C++, and beyond.
-
-**Status**: Coming Soon
-
-## Links
-
-- Website: [lanter.dev](https://lanter.dev)
-- Organization: [github.com/lanter-dev](https://github.com/lanter-dev)
+**[lanter.dev](https://lanter.dev)**
 
 ## Development
 
@@ -24,9 +11,13 @@ npm install
 npm run dev
 ```
 
-## Contributing
+## Build
 
-Contributions are welcome! Feel free to submit a Pull Request.
+```bash
+npm run build
+```
+
+Output goes to `dist/`.
 
 ## License
 
